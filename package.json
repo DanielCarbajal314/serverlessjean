@@ -1,0 +1,28 @@
+{
+  "name": "serverless-back-end",
+  "version": "1.0.0",
+  "description": "This is a homework for the master in computer science on PUCP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielCarbajal314/data-visualization.git"
+  },
+  "keywords": [
+    "D3",
+    "data",
+    "visualization"
+  ],
+  "author": "Daniel Carbajal, Rodrigo Maldonado, Erasmo Montoya, Diego Salas, Rodolfo Galvez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielCarbajal314/data-visualization/issues"
+  },
+  "homepage": "https://github.com/DanielCarbajal314/data-visualization#readme",
+  "dependencies": {
+    "aws-sdk": "^2.80.0",
+    "datalib": "^1.7.3"
+  }
+}
